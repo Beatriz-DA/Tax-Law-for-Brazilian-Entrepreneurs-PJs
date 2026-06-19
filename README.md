@@ -27,10 +27,10 @@ Operating an international digital business (SaaS, e-commerce, tech consulting) 
 
 The NotebookLM agent was fed using the following 4 official open-source legal frameworks and documents:
 
-1.  **🇧🇷 Brazilian Federal Revenue (RFB) - Lei nº 14.754/2023:** The official legislation detailing the taxation of foreign offshore companies and trusts controlled by Brazilian tax residents.
-2.  **🤝 Brazil-Paraguay DTA - Decreto nº 11.967/2024:** The definitive, newly enacted Double Taxation Agreement between Brazil and Paraguay governing cross-border service fees and dividends.
-3.  **🇺🇸 Internal Revenue Service (IRS) - Section 864 & Form 5472 Guides:** Official US Treasury documentation defining what constitutes being *Engaged in Trade or Business in the United States* (ETBUS) and reporting rules for foreign-owned disregarded entities.
-4.  **🇵🇾 Paraguay National Tax Directorate - Ley nº 6380/2019:** The structural tax law of Paraguay establishing the rules for **IRE Simple** and the strict application of the territorial tax system.
+1.  **🇧🇷 Brazilian Federal Revenue (RFB) - [Manual de Perguntas e Respostas da Lei nº 14.754](https://www.gov.br/fazenda/pt-br/acesso-a-informacao/perguntas-frequentes/tributacao-offshore/29-4-24-perguntas-e-respostas-offshores-lei-14-754-e-in-rfb-2-180.pdf):** The official regulatory guide detailing how foreign offshore companies, trusts, and investment funds owned by Brazilian tax residents are taxed under the new rules.
+2.  **🇵🇾 Paraguay National Tax Directorate - [Ley nº 6380/2019 (Texto Oficial)](https://www.dnit.gov.py/web/portal-institucional/w/d-ley-n-6380-19):** The foundational tax legislation of Paraguay establishing the structural rules for **IRE Simple**, the application of its territorial tax matrix, and cross-border agreements.
+3.  **🇧🇷 Receita Federal do Brasil - [Guia de Residentes no Exterior](https://servicos.receita.fazenda.gov.br/publico/programas/irpf/2004/ResidentesExteriorPerguntaseRespostas.pdf):** Official RFB manual governing the tax status, exit declarations, and tax obligations of individuals moving or operating their fiscal residency outside of Brazil.
+4.  **🇺🇸 Internal Revenue Service (IRS) - [Taxation of Nonresident Aliens Guide](https://www.irs.gov/individuals/international-taxpayers/taxation-of-nonresident-aliens):** Official US Treasury guidelines detailing federal tax rules for foreign individuals owning US structures (such as Single-Member LLCs) and defining US-source income thresholds.
 
 ---
 
