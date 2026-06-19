@@ -1,9 +1,5 @@
 # Tax Law for Brazilian Entrepreneurs
 
-An AI-driven international tax intelligence engine built on NotebookLM to cross-reference corporate compliance across Brazil, the United States, and Paraguay.
-
----
-
 ## ⚡ Quick Project Overview (For Recruiters)
 If you only have **30 seconds**, here is what this repository accomplishes:
 
